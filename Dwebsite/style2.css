@@ -1,0 +1,72 @@
+.header {
+background-color: #DED221;
+color: white;
+height: 100px;
+}
+
+li {
+list-style: none;
+}
+
+.header-logo {
+float: left;
+font-size: 40px;
+padding: 20px 35px;
+}
+
+.header-list li {
+float: left;
+padding: 40px 20px;
+}
+
+.header-list li a {
+text-decoration: none;
+color: #E5E7E9;
+}
+
+/*To change the behavior when I mouse over this link*/
+.header-list li a:hover {
+background-color: #E74C3C ;
+font-size: 15px;
+
+}
+
+.main {
+height: 1000px;
+padding: 10px;
+background-color: #E8F8F5;
+}
+
+.contents h1, h2 {
+font-family: Apple Chancery;
+font-size: 40px;
+text-align: center;
+}
+
+.select {
+border-bottom: 2px solid #566573;
+}
+
+
+.footer {
+background-color: #C820F4;
+height: 150px;
+color: #E5E7E9;
+
+}
+
+.footer-logo{
+font-size: 50px;
+float: left;
+padding: 25px;
+}
+
+.footer-list {
+float: right;
+}
+
+.footer-list li {
+	background-color: #C820F4;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
